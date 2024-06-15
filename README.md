@@ -5,7 +5,7 @@
 ## Setup database
 1. cd backend
 2. copy .env.example to .env
-1. Setup database .env
+1. Setup database in .env
 
 ## Setup backend
 1. cd backend
