@@ -3,7 +3,9 @@
 # Development run
 
 ## Setup database
-1. Setup database in /backend/.env
+1. cd backend
+2. copy .env.example to .env
+1. Setup database .env
 
 ## Setup backend
 1. cd backend
@@ -16,4 +18,4 @@
 ## Setup frontend
 1. cd frontend
 2. npm install
-3. npm run dev
+3. npm run serve
